@@ -1,4 +1,4 @@
-package com.simplilearn.ticketGenerator;
+package com.simplilearn.TicketGeneratorApplication;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
